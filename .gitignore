@@ -1,0 +1,13 @@
+.env
+.env.*
+*.key
+*.pem
+*.secret
+__pycache__/
+*.pyc
+.venv/
+vault/
+private/
+secrets/
+research-sessions/
+*.sqlite3
